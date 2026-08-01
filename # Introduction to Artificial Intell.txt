@@ -1,0 +1,57 @@
+# Introduction to Artificial Intelligence
+
+## What is Artificial Intelligence?
+
+Artificial Intelligence (AI) is a field of computer science that focuses on creating systems that can perform tasks that normally require human intelligence.
+
+Examples:
+- Chatbots
+- Voice assistants
+- Recommendation systems
+- Self-driving systems
+- Image recognition
+
+## What is Machine Learning?
+
+Machine Learning (ML) is a subset of AI where computers learn patterns from data and use those patterns to make predictions or decisions.
+
+Examples:
+- Spam detection
+- House price prediction
+- Fraud detection
+- Movie recommendations
+
+## What is Deep Learning?
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data.
+
+Examples:
+- Face recognition
+- Speech recognition
+- Image classification
+- Large language models
+
+## AI vs ML vs Deep Learning
+
+AI
+→ Broad field of making machines intelligent.
+
+ML
+→ A subset of AI that learns from data.
+
+Deep Learning
+→ A subset of ML based on multi-layer neural networks.
+
+## Real-World Applications
+
+1. Healthcare
+2. Banking
+3. Education
+4. Transportation
+5. E-commerce
+6. Cybersecurity
+7. Entertainment
+
+## Conclusion
+
+AI, Machine Learning, and Deep Learning are important technologies used to solve real-world problems and automate intelligent tasks.
